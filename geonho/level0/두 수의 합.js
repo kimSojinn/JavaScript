@@ -1,5 +1,7 @@
 import { checkAnswer } from "../../common.js";
 
+// 예시 !!
+
 /**
  * © DEV MING 💻
  * Current date: 2023-03-09
